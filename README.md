@@ -6,8 +6,8 @@ My focus is on improving the software development life cycle, from design to dep
 
 In particular, I'm a huge enthusiast of agile and DevOps culture. I believe that these methodologies are essential for delivering high-quality software in a timely and efficient manner. 
 
-🔭 I’m currently working as a full-stack developer at [Vigil](https://vigil.global/)/[FindMyPast](https://www.findmypast.com/) in a collaborative, autonomous, and cross-functional team with a huge focus on usability, high availability, low latency, and scalability. 
-Recently I'm working more often with NodeJS, ReactJS, Graphql, PostgreSQL, Jest, Cypress and a little bit of python.
+🔭 I’m currently working as a full-stack developer at Duck Creek Technologies in a collaborative, autonomous, and cross-functional team with a huge focus on usability, high availability, low latency, and scalability. 
+Recently I'm working more often with ReactJS, Typescript, .Net Core, Jest, Playwright and Azure DevOps.
 
 📫 Feel free to [contact me](mailto:psvieira.ti@gmail.com) if you have any questions or just want to say hello!
 
